@@ -1,6 +1,5 @@
 '''
 Este Script agrupa por tipo geometria (Puntos, Lineas, Poligonos).
-Autor: Percy Elbis
 '''
 puntos = 'qgis_puntos'
 lineas = 'qgis_lineas'
